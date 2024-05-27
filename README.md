@@ -12,3 +12,10 @@ To play the game, clone this repository to your local machine:
 ```bash
 git clone https://github.com/iambusra/snake.git
 cd snake
+```
+
+Note for Win users: Install curses library.
+```bash
+pip install curses
+```
+
