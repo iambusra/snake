@@ -8,11 +8,13 @@ Classic snake game for the command-line interface.
 - **Pause and Restart**: Pause and continue the game anytime, or restart. 
 
 ## Screenshots
+
 ![Start Screen](https://github.com/iambusra/snake/blob/main/start_screen.png)
 
 ![Gameplay](https://github.com/iambusra/snake/blob/main/gameplay.png)
 
 ![End Screen](https://github.com/iambusra/snake/blob/main/end_screen.png)
+
 
 
 ## Installation
