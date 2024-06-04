@@ -7,7 +7,8 @@ Classic snake game for the command-line interface.
 - **Adjustable Speed**: The snake moves faster as its length grows. Hint: Hold the arrow key to make the snake go even faster. 
 - **Pause and Restart**: Pause and continue the game anytime, or restart. 
 
-## Screenshots
+## Screenshots
+
 
 ![Start Screen](https://github.com/iambusra/snake/blob/main/start_screen.png)
 
