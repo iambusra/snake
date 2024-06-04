@@ -1,3 +1,3 @@
-busra,13
-busra,10
-busra,2
+busra,26
+busra,25
+busra,25

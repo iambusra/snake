@@ -5,6 +5,7 @@ Classic snake game for the command-line interface.
 - **Controls**: Use arrow keys.
 - **High Score Tracking**: A local highscore board (.txt file) keeps track of the top 3 highest scores.
 - **Adjustable Speed**: The snake moves faster as its length grows. Hint: Hold the arrow key to make the snake go even faster. 
+- **Pause and Restart**: Pause and continue the game anytime, or restart. 
 
 ## Installation
 To play the game, clone this repository to your local machine:
